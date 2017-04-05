@@ -29,7 +29,8 @@ __Q:我总在想：如果分支多了，到底怎么分得清楚哪里是最新�
 [Pro Git](http://iissnan.com/progit/html/zh/ch5_3.html)《项目管理》章节给出了能理解的答案
 
 Git 真正的价值 不止是coding,还可以用于很多其他创作型工作。看来要多花点时间
-
+  
+---
 #### Vue
 
 
