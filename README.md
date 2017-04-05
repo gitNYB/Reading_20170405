@@ -5,7 +5,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;这里的Markdown写法会上瘾，~~不要停~~</br>
 
 ### 背景 Background
-- About me
+- About me </br>
 &nbsp;&nbsp;&nbsp;&nbsp;前面写了篇关于学习Vue的笔记，感觉自己耐心还是不够</br>
 &nbsp;&nbsp;&nbsp;&nbsp;最近心烦的事情太多了，工作上的</br>
 &nbsp;&nbsp;&nbsp;&nbsp;希望能够静下心来多学点东西，年纪也不小了</br>
