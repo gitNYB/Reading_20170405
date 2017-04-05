@@ -6,11 +6,12 @@
 
 ### 背景 Background
 - About me </br>
-&nbsp;&nbsp;&nbsp;&nbsp;前面写了篇关于学习Vue的笔记，感觉自己耐心还是不够</br>
-&nbsp;&nbsp;&nbsp;&nbsp;最近心烦的事情太多了，工作上的</br>
-&nbsp;&nbsp;&nbsp;&nbsp;希望能够静下心来多学点东西，年纪也不小了</br>
-&nbsp;&nbsp;&nbsp;&nbsp;另外一个方面就是记录遇到的问题</br>
-&nbsp;&nbsp;&nbsp;&nbsp;想做的事情又特别的多，下了班却不想动</br>
+前面写了篇关于学习Vue的笔记，感觉自己耐心还是不够</br>
+最近心烦的事情太多了，工作上的</br>
+希望能够静下心来多学点东西，年纪也不小了</br>
+另外一个方面就是记录遇到的问题</br>
+想做的事情又特别的多，下了班却不想动</br>
 
 
 ### 目的 Purpose
+- Git
