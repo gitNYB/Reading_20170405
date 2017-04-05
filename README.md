@@ -17,6 +17,7 @@
 - Git
 - Vue
 - 考试
+- javascript
 
 ### 正文 Main
 #### Git
